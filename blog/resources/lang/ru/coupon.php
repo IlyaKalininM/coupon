@@ -14,4 +14,5 @@ return [
     'successfully_verified' => 'Купон :name успешно прошел проверку.',
     'successfully_used_and_deleted' => 'Купон :name был успешно использован и удален.',
     'successfully_usedTEST' => 'Купон :name был успешно использован.',
+    'successfully_usedTESTTEST' => 'Купон :name был успешно использован.',
 ];
