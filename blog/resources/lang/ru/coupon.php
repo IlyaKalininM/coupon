@@ -18,4 +18,5 @@ return [
     'successfully_usedTESTTESTTEST' => 'Купон :name был успешно использован.',
     'successfully_usedTESTTESTTEST' => 'Купон :name был успешно использован.',
     'successfully_usedTESTTESTTEST' => 'Купон :name был успешно использован.',
+    'successfully_usedTESTTESTTEST' => 'Купон :name был успешно использован.',
 ];
