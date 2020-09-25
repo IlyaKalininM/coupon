@@ -15,4 +15,5 @@ return [
     'successfully_used_and_deleted' => 'Купон :name был успешно использован и удален.',
     'successfully_usedTEST' => 'Купон :name был успешно использован.',
     'successfully_usedTESTTEST' => 'Купон :name был успешно использован.',
+    'successfully_usedTESTTESTTEST' => 'Купон :name был успешно использован.',
 ];
