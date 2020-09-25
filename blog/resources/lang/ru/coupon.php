@@ -13,5 +13,5 @@ return [
     'already_used' => 'Купон :name уже был использован.',
     'successfully_verified' => 'Купон :name успешно прошел проверку.',
     'successfully_used_and_deleted' => 'Купон :name был успешно использован и удален.',
-    'successfully_used' => 'Купон :name был успешно использован.',
+    'successfully_usedTEST' => 'Купон :name был успешно использован.',
 ];
